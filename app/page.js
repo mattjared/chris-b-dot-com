@@ -7,7 +7,6 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Matt J is the man!&nbsp;
-          <code className={styles.code}>app/page.js</code>
         </p>
         <div>
           <a
